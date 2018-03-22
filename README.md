@@ -1,2 +1,2 @@
 # python
-练习python
+Hi
